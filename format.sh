@@ -20,7 +20,9 @@ if [ $ch -eq 1 ];then
 clear
 echo -e "\e[1;32m"
 rm *.xxx >/dev/null 2>&1
-cd /Format-pendrive/sdb/
+cd $HOME
+cd Format-pendrive
+cd sdb
 chmod +X formats.sh
 bash formats.sh
 rm *.xxx >/dev/null 2>&1
