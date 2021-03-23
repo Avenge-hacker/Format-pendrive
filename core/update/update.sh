@@ -19,16 +19,27 @@ echo " "
 echo " "
 sleep 6.0
 clear
-echo -e "$red                         █▒▒▒▒▒▒▒▒▒ 𝟐𝟎%>$rset"
+echo -e "$red                  loding. . .  $rset"
+sleep 2.0
+echo -e "$red                         █ 15% $rset"
 sleep 2.0
 clear
-echo -e "$red                         ███▒▒▒▒▒▒▒ 𝟓𝟎%>$rset"
+echo -e "$red                         ██ 30% $rset"
 sleep 2.0
 clear
-echo -e "$red                         █████▒▒▒▒▒ 𝟕𝟎%>$rset"
+echo -e "$red                         ███ 45% $rset"
 sleep 2.0
 clear
-echo -e "$red                         ██████████ 100%>$rset"
+echo -e "$red                         ████ 60% $rset"
+sleep 2.0
+clear
+echo -e "$red                         █████ 75% $rset"
+sleep 2.0
+clear
+echo -e "$red                         ██████ 100% $rset"
+sleep 2.0
+clear
+echo -e "$red                            Complete $rset"
 sleep 2.0
 clear
 echo " "
